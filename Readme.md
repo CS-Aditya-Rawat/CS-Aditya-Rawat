@@ -4,7 +4,7 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Aditya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdityaR78891256)](https://twitter.com/Ipenywis) [![Linkedin Badge](https://img.shields.io/badge/-Aditya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rawat-735740202/) [![Instagram Badge](https://img.shields.io/badge/-@Aditya_adi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aditya_adiii_/) [![Mail Badge](https://img.shields.io/badge/-isAditya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adityarawatinferno@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Aditya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdityaR78891256)](https://twitter.com/AdityaR78891256) [![Linkedin Badge](https://img.shields.io/badge/-Aditya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rawat-735740202/) [![Instagram Badge](https://img.shields.io/badge/-@Aditya_adi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aditya_adiii_/) [![Mail Badge](https://img.shields.io/badge/-isAditya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adityarawatinferno@gmail.com)
 
 <!-- TODO: Add last video link -->
 
