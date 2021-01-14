@@ -4,7 +4,7 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Aditya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdityaR78891256)](https://twitter.com/Ipenywis)[![Linkedin Badge](https://img.shields.io/badge/-Aditya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rawat-735740202/) [![Mail Badge](https://img.shields.io/badge/-@Aditya_adi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aditya_adiii_/) [![Mail Badge](https://img.shields.io/badge/-isAditya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adityarawatinferno@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Aditya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdityaR78891256)](https://twitter.com/Ipenywis) [![Linkedin Badge](https://img.shields.io/badge/-Aditya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rawat-735740202/) [![Mail Badge](https://img.shields.io/badge/-@Aditya_adi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/aditya_adiii_/) [![Mail Badge](https://img.shields.io/badge/-isAditya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adityarawatinferno@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -66,29 +66,14 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
 
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-
-```
-
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Aditya-Rawat&langs_count=8)](https://github.com/CS-Aditya-Rawat/github-readme-stats)
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=CS-Aditya-Rawat&show_icons=true&theme=radical)
 
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+
