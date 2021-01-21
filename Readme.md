@@ -60,7 +60,7 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 
 #### Coding Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Aditya-Rawat&langs_count=8)](https://github.com/CS-Aditya-Rawat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Aditya-Rawat&langs_count=7)](https://github.com/CS-Aditya-Rawat/github-readme-stats)
 
 #### Github Stats
 
