@@ -66,5 +66,6 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=CS-Aditya-Rawat&show_icons=true&theme=radical)
 
-
+### Visitor's Count
+![Visitor Count](https://profile-counter.glitch.me/Cs-Aditya-Rawat/count.svg)
 
