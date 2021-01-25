@@ -43,10 +43,10 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 
 <img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/63283520/105762101-f6216f80-5f79-11eb-8c41-6e7928ce573f.png" />
+<img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/63283520/105762422-60d2ab00-5f7a-11eb-8e15-01962d9b230d.png" />
 
 &emsp;
-<img align="left" alt="Git" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="django" width="70px" src="https://user-images.githubusercontent.com/63283520/105762547-911a4980-5f7a-11eb-990e-82cca861d0fb.png" />
 
 &emsp;
 <img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/63283520/105762295-397bde00-5f7a-11eb-9c63-762e2a9af8be.png" />
