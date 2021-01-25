@@ -45,6 +45,7 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 
 <img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/63283520/105762422-60d2ab00-5f7a-11eb-8e15-01962d9b230d.png" />
 
+\
 &emsp;
 <img align="left" alt="django" width="70px" src="https://user-images.githubusercontent.com/63283520/105762547-911a4980-5f7a-11eb-990e-82cca861d0fb.png" />
 
