@@ -37,22 +37,22 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 
 <img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="cpp" width="60px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/cpp/cpp.png" />
+<img align="left" alt="cpp" width="60px" src="https://user-images.githubusercontent.com/63283520/105761611-61b70d00-5f79-11eb-829d-c23beff68c01.png" />
 
 <img align="left" alt="SQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="Git" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/63283520/105762101-f6216f80-5f79-11eb-8c41-6e7928ce573f.png" />
 
 &emsp;
 <img align="left" alt="Git" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 
 &emsp;
-<img align="left" alt="Git" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img align="left" alt="Git" width="70px" src="https://user-images.githubusercontent.com/63283520/105762295-397bde00-5f7a-11eb-9c63-762e2a9af8be.png" />
 
 
-<img align="left" alt="MongoDB" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="70px" src="https://user-images.githubusercontent.com/63283520/105761986-cecaa280-5f79-11eb-8821-2cf8c98d3dff.png" />
 
 <br /><br />
 <br />
