@@ -8,7 +8,7 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **Junior Web Developer** (Open Source Contribution Organisation).
+- 🔭 I’m currently working on **MYSELF** (Ds-Algo).
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for more open source projects.
 - 📫 How to reach me: adityarawatinferno@gmail.com.
