@@ -30,9 +30,9 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 
-[//]: <> ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Aditya-Rawat&langs_count=7)](https://github.com/CS-Aditya-Rawat/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Aditya-Rawat&langs_count=7)](https://github.com/CS-Aditya-Rawat/github-readme-stats)
 
-[//]: <> (![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=CS-Aditya-Rawat&show_icons=true&theme=radical))
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=CS-Aditya-Rawat&show_icons=true&theme=radical)
 
 <p align="center">
 🌐 Connect with me and chat :incoming_envelope: <br/>
