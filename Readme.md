@@ -1,17 +1,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
-
-I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spend most of time coding outstanding projects and leaning new things.
-
-<!-- TODO: Add last video link -->
-
-- 🔭 I’m currently working on **MYSELF** (Ds-Algo).
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for more open source projects.
-- 📫 How to reach me: adityarawatinferno@gmail.com.
-- 😄 Pronouns: CoderOne, Xcaliber, Adi.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+  
+- 👋 Greetings! I'm Aditya Rawat, a Python enthusiast deeply passionate about Machine Learning and AI.
+- 🐍 Python is my foundation, and I thrive on its simplicity and the power of diverse libraries for efficient tasks.
+- 🤖 The realm of Machine Learning captivates me as I delve into real-world projects, exploring algorithms for valuable insights.
+- 📊 I'm intrigued by data and its potential, transforming it into meaningful solutions is my goal.
+- 🔍 Exploring algorithms, from data preprocessing to model building and evaluation, fuels my curiosity.
+- 🚀 I find joy in automating tasks through scripts, harnessing their potential to boost productivity.
+- 💡 Continuous learning is my mantra, embracing the evolving tech landscape to stay current.
+- 🌟 Open to opportunities, I'm excited to collaborate on Python, ML, or AI projects that create a positive impact.
+- 🤝 Let's connect and make a difference together!
 
 ### 🔧 Languages and Frameworks:
 
@@ -30,9 +29,10 @@ I'm Aditya Rawat a Full Stack Web Developer and a Competitive Programmer. I Spen
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Aditya-Rawat&langs_count=7)](https://github.com/CS-Aditya-Rawat/github-readme-stats)
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=CS-Aditya-Rawat&show_icons=true&theme=radical)
+| Top Languages | GitHub Stats |
+|---------------|--------------|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Aditya-Rawat&langs_count=7)](https://github.com/CS-Aditya-Rawat/github-readme-stats) | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=CS-Aditya-Rawat&show_icons=true&theme=radical) |
 
 <p align="center">
 🌐 Connect with me and chat :incoming_envelope: <br/>
