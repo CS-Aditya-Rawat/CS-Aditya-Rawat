@@ -37,12 +37,10 @@
 | Top Languages | GitHub Stats |
 |---------------|--------------|
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Aditya-Rawat&langs_count=7)](https://github.com/CS-Aditya-Rawat/github-readme-stats) | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=CS-Aditya-Rawat&show_icons=true&theme=radical) |
--->
 <div align="center">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Aditya-Rawat&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/CS-Aditya-Rawat/github-readme-stats)
-
 </div>
+-->
 <p align="center">
 📫 Connect with me and chat :incoming_envelope: <br/>
 <code><a href="https://www.linkedin.com/in/cs-aditya-rawat/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
